@@ -1,5 +1,5 @@
-Drug Classification Model
-This project is a simple machine-learning model to predict drug types based on patient characteristics. The model uses a feed-forward neural network implemented with TensorFlow and Keras and achieves high accuracy on the dataset, making it a practical example for beginners in neural networks.
+Drug Classification Model (dataset taken from Kaggel: https://www.kaggle.com/datasets/prathamtripathi/drug-classification) 
+This project is a simple machine-learning model to predict drug types based on patient characteristics. The model uses a feed-forward neural network implemented with TensorFlow and Keras and achieves high accuracy on the dataset.
 
 Dataset
 The dataset, drug200.csv, contains information about various drugs prescribed to patients based on certain characteristics:
